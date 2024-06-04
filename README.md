@@ -1,11 +1,13 @@
-### Olá, eu sou Alípio Gomes
-#### Sou estudante de análise e desenvolvimento de sistemas
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
+### Olá, sou Alípio Gomes
+#### Desenvolvedor Fullstack
 
-|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlipioGSF&show_icons=true&theme=codeSTACKr)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+👨‍🎓 -  Me formando em Análise e Desenvolmento de Sistemas<br>
+🧠💡 - Criativo e sempre com sugestões para solucionar problemas
+
+##### Tecnologias Frontend
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,angular,bootstrap,tailwind,figma)](https://skillicons.dev)
+
+##### Tecnologias Backend
+
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,nestjs,java,spring,mysql)](https://skillicons.dev)
