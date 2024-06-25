@@ -1,7 +1,7 @@
 ### Olá, sou Alípio Gomes
 #### Desenvolvedor Fullstack
 
-👨‍🎓 -  Me formando em Análise e Desenvolmento de Sistemas<br>
+👨‍🎓 -  Formado em Análise e Desenvolmento de Sistemas<br>
 🧠💡 - Criativo e sempre com sugestões para solucionar problemas
 
 ##### Tecnologias Frontend
